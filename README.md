@@ -15,6 +15,11 @@ The setting is the Waiopae Reef, which is housed off the east coast of Hawaii is
 
 This game was made in Unity3D with assets produced in Sketchfab, Maya, Adobe Photoshop, and Adobe Illustrator. 
 
+## Project Download
+
+due to a large file policy a workaround is being found, but please check out the project on Google Drive in the meantime:
+
+https://drive.google.com/a/hawaii.edu/file/d/0BwxjdSxJRy-kM3F1VzI2T3lkQ00/view
 
 ## Demo Video
 
